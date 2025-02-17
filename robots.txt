@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://mollysunqy.github.io//sitemap.xml
+User-agent: * Disallow: Sitemap: https://mollysunqy.github.io/sitemap.xml
